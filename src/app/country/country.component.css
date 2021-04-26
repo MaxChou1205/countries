@@ -1,0 +1,33 @@
+.card {
+  padding: 20px;
+}
+
+#filter {
+  border-radius: 3px;
+  padding: 5px;
+}
+
+table {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.flag {
+  width: 30px;
+}
+
+.mat-column-flag,
+.mat-column-alpha2Code,
+.mat-column-alpha3Code {
+  width: 10%;
+}
+
+.mat-column-name,
+.mat-column-nativeName,
+.mat-column-callingCodes {
+  width: 15%;
+}
+
+.name {
+  cursor: pointer;
+}
